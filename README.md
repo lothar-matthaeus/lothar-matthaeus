@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Lothar 👋
 
-<!--
-**lothar-matthaeus/lothar-matthaeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Dados Júnior em formação  
+📊 Foco em análise de dados, KPIs e melhoria de processos  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Excel Avançado
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 O que você vai encontrar aqui
+- Projetos práticos de análise de dados
+- Limpeza e exploração de dados
+- Dashboards e insights de negócio
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/lothar-matthaeus-19886b236/
