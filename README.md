@@ -1,4 +1,4 @@
-# Olá, eu sou o Lothar 👋
+# Olá, eu sou o Lothar Matthaeus 👋
 
 🎯 Analista de Dados Júnior em formação  
 📊 Foco em análise de dados, KPIs e melhoria de processos  
