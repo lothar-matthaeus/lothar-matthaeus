@@ -2,7 +2,8 @@
 
 <p align="left"> 
   Olá, eu sou o Lothar Matthaeus, <strong>Analista de Dados</strong> em formação.<br>
-  Atualmente sou estudante de Ciência de Dados e estou aprofundando meus conhecimentos em Python.
+  
+  Estudo Ciência de Dados e atualmente estou aprofundando meus conhecimentos em Python, SQL e análise de dados.
 </p>
 
 <p align="left">
