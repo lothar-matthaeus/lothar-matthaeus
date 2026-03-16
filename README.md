@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:lotharmtab@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lotharmtab@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/lotharmatthaeus/" title="LinkedIn">
