@@ -1,30 +1,16 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Olá, eu sou Lothar Matthaeus
 
-<p align="left"> 
-  Olá, eu sou o Lothar Matthaeus, <strong>Analista de Dados</strong> em formação.<br>
-  
-  Estudo Ciência de Dados e atualmente estou aprofundando meus conhecimentos em Python, SQL e análise de dados.
-</p>
+Sou analista de dados e gosto de transformar dados em análises e visualizações que apoiem decisões de negócio.
 
-<p align="left">
-  🛠️ Linguagens: Python e SQL
-</p>
+## Ferramentas
 
-<p align="left">
-  📊 Ferramentas: Power BI, Excel e Google Sheets
-</p>
+- **Análise:** SQL, Python e Excel
+- **Visualização:** Power BI, Tableau e Google Sheets
 
-<p align="left">
-  📫 Se ficou interessado, entre em contato pelos links abaixo: ⤵️
-</p>
+## Projeto em destaque
 
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lotharmtab@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+[Análise de Vendas Automotivas com Power BI](https://github.com/lothar-matthaeus/analise-vendas-powerbi) — projeto de análise com SQL, modelagem dimensional, DAX e dashboard no Power BI.
 
-  <a href="https://www.linkedin.com/in/lotharmatthaeus/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+## Contato
 
-  <a href="https://wa.me/5534991312759" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+[Email](mailto:lotharmtab@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lotharmatthaeus/) · [WhatsApp](https://wa.me/5534991312759)
